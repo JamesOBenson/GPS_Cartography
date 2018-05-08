@@ -5,6 +5,16 @@ While a Google API key is not necessary for this code to work, if you would like
 To obtain an API key, follow googles instructions here:
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
+The final result are images such as:
+##Without a Google API key:
+![flowchart.jpg](https://github.com/JamesOBenson/GPS_Cartography/blob/master/images/GPS_figure.png)
+*Figure 1: GPS Coordinates with 2 mile ring around it*
+
+##With a Google API key:
+![flowchart.jpg](https://github.com/JamesOBenson/GPS_Cartography/blob/master/images/GPS_figure-withAPI.png)
+*Figure 1: GPS Coordinates with 2 mile ring around it and driving path*
+
+
 ##How is this playbook licensed?
 
 It's licensed under the Apache License 2.0. The quick summary is:
