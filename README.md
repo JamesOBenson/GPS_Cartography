@@ -6,6 +6,8 @@ To obtain an API key, follow googles instructions here:
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
 The final result are images such as:
+
+
 ##Without a Google API key:
 ![flowchart.jpg](https://github.com/JamesOBenson/GPS_Cartography/blob/master/images/GPS_figure.png)
 *Figure 1: GPS Coordinates with 2 mile ring around it*
