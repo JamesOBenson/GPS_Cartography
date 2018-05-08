@@ -8,17 +8,16 @@ https://developers.google.com/maps/documentation/javascript/get-api-key
 The final result are images such as:
 
 
-##Without a Google API key:
+## Without a Google API key:
 ![flowchart.jpg](https://github.com/JamesOBenson/GPS_Cartography/blob/master/images/GPS_figure.png)
 *Figure 1: GPS Coordinates with 2 mile ring around it*
 
-##With a Google API key:
+## With a Google API key:
 ![flowchart.jpg](https://github.com/JamesOBenson/GPS_Cartography/blob/master/images/GPS_figure-withAPI.png)
 *Figure 1: GPS Coordinates with 2 mile ring around it and driving path*
 
 
-##How is this playbook licensed?
-
+## How is this playbook licensed?
 It's licensed under the Apache License 2.0. The quick summary is:
 
 A license that allows you much freedom with the software, including an explicit right to a patent. State changes means that you have to include a notice in each file you modified.
